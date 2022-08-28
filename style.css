@@ -16,6 +16,36 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+h3 {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+h4 {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+h5 {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+h6 {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+h7 {
+    font-size: 30px;
+    color: aliceblue;
+}
+
 p {
     color: aliceblue;
     text-align: justify;
