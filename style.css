@@ -1,3 +1,15 @@
 body {
     background-color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 50px;
+}
+
+#banner {
+    width: 100%;
+}
+
+p {
+    color: aliceblue;
+    
 }
