@@ -7,6 +7,12 @@ body {
 
 #banner {
     width: 100%;
+    border-radius: 50px;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
 }
 
 p {
