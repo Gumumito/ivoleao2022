@@ -136,7 +136,7 @@ form label, form legend {
 .enviar {
 	width: 40%;
 	padding: 15px 0;
-	background: orange;
+	background: rgb(0, 0, 0);
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -156,8 +156,8 @@ table {
 }
 
 thead {
-	background: #555555;
-	color: white;
+	background: #000000;
+	color: rgb(0, 0, 0);
 	font-weight: bold;
 }
 
@@ -167,7 +167,7 @@ td, th {
 }
 
 label {
-	color: rgb(223, 241, 250);
+	color: rgb(0, 0, 0);
 }
 
 form label {
