@@ -147,7 +147,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background:  darkorange;
+	background:  rgb(0, 0, 0);
 	transform: scale(1.2);
 }
 
@@ -167,7 +167,7 @@ td, th {
 }
 
 label {
-	color: rgb(5, 7, 8);
+	color: rgb(223, 241, 250);
 }
 
 form label {
