@@ -1,9 +1,10 @@
+
 html {
-	background-color: rgb(10 , 14 , 55);
+	background: linear-gradient(rgb(7, 11, 20),rgb(17, 0, 255));
 }
 
 header {
-	background: rgb(10 , 14 , 25);
+	background: rgb(8, 2, 54);
 	padding: 20px 0;
 }
 
@@ -42,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-	color:  #000000;
+	color:  #ff0000;
 	text-decoration: none;
 }
 
@@ -97,7 +98,7 @@ div {
 
 footer {
 	text-align: center;
-	background: #000000
+	background: #0400fc
 
 }
 
@@ -136,7 +137,7 @@ form label, form legend {
 .enviar {
 	width: 40%;
 	padding: 15px 0;
-	background: rgb(0, 0, 0);
+	background: rgb(255, 0, 0);
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -156,18 +157,18 @@ table {
 }
 
 thead {
-	background: #000000;
-	color: rgb(0, 0, 0);
+	background: #ff0000;
+	color: rgb(255, 0, 0);
 	font-weight: bold;
 }
 
 td, th {
-	border: 1px solid #000000;
+	border: 1px solid #ff0000;
 	padding: 8px 15px;
 }
 
 label {
-	color: rgb(0, 0, 0);
+	color: rgb(255, 0, 0);
 }
 
 form label {
@@ -188,6 +189,10 @@ form input {
 	height: 250px;
 }
 
+#logo54 {
+	width: 450px;
+	height: 150px;
+}
 #logo {
 	width: 150px;
 	height: 150px;
@@ -197,4 +202,59 @@ form input {
 	height: 150px;
 	width: 150px;
 }
+.lee  {
+	width: 450px;
+	height: 200px;
+}
+.beneficios { 
+    padding: 3em 0;
 
+
+ }
+.lista-beneficios {
+    width: 40%;
+    display: inline-block
+
+}
+h4{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    color: rgb(252, 252, 252);
+
+}
+.conteudo-beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
+    width: 40%;
+    display: inline-block
+
+}
+.conteudo-beneficios{
+	text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    color: rgb(255, 255, 255);
+}
+.itens p {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+
+}
+.itens{
+    color: #00c3ff;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 0 1em;
+    font-weight: bold;
+
+}
